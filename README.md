@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS, DevOPs**
 
-- 👨‍💻 You can find my portfolio at [timiodusanya.netlify.app](timiodusanya.netlify.app)
+- 👨‍💻 You can find my portfolio at [https://timiodusanya.netlify.app](https://timiodusanya.netlify.app)
 
 - 💬 Ask me about **JavaScript, C#, Web Dev, MERN Stack**
 
