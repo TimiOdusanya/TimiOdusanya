@@ -1,4 +1,4 @@
-[![MasterHead](https://m.media-amazon.com/images/I/71cMSqXtHyL.jpg)](https://timiodusanya.netlify.app/)
+[![MasterHead](https://m.media-amazon.com/images/I/71cMSqXtHyL.jpg)](https://timiodusanya.vercel.app/)
 <h1 align="center">Hi 👋, I'm Timilehin Odusanya</h1>
 <h3 align="center">A passionate Software Engineer from Lagos, Nigeria</h3>
 <img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **AWS, DevOPs**
 
-- 👨‍💻 You can find my portfolio at [https://timiodusanya.netlify.app](https://timiodusanya.netlify.app)
+- 👨‍💻 You can find my portfolio at [https://timiodusanya.vercel.app](https://timiodusanya.vercel.app)
 
 - 💬 Ask me about **JavaScript, C#, Web Dev, MERN Stack**
 
 - 📫Reach me on **timmycruz36@gmail.com**
 
-- 📄 Know about my experiences [https://timiodusanya.netlify.app/files/Resume.pdf](https://timiodusanya.netlify.app/files/Resume.pdf)
+- 📄 Know about my experiences [https://timiodusanya.vercel.app/files/Resume.pdf](https://timiodusanya.vercel.app/files/Resume.pdf)
 
 - ⚡ Fun fact **I love music, travel, food and love to code.**
 
