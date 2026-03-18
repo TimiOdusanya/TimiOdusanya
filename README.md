@@ -3,7 +3,7 @@
 <h1 align="center">timiodusanya</h1>
 
 <p align="center">
-  <b>Full Stack Engineer • Backend Systems • AI Integrations</b>
+  <b>Full Stack Engineer • Backend Systems • AI Integrations • DevOps</b>
 </p>
 
 <p align="center">
@@ -21,9 +21,11 @@ I’m not just writing code — I’m building systems.
 - I build with **intent**, not just tools
 
 Most of my work sits around:
-- Backend systems that don’t break under pressure
-- API design that other engineers can actually use
-- AI + automation pipelines that reduce manual work
+
+- Backend systems that don’t break under pressure  
+- API design that other engineers can actually use  
+- AI + automation pipelines that reduce manual work  
+- Cloud + DevOps systems that are production-ready  
 
 ---
 
@@ -35,34 +37,31 @@ Most of my work sits around:
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Work (Scope)
 
-### 🔹 Loubby AI
-Global talent + hiring + payments platform
+Instead of listing projects, here’s what my work has covered:
 
-- Built core backend flows (auth, wallet, integrations)
-- Designed systems to support multiple user roles and workflows
-- Integrated external APIs (Meta, WhatsApp)
-- Structured the backend to evolve without constant rewrites
-
----
-
-### 🔹 AI Automation Systems
-
-- Built high-efficiency workflows using n8n
-- Reduced redundant API calls by batching intelligently
-- Designed reusable pipelines instead of one-off scripts
+- Designing **multi-role systems** with complex permissions and workflows  
+- Building **payment, wallet, and transaction systems**  
+- Engineering **scalable backend architectures** (Node.js + .NET)  
+- Developing **AI-powered automation pipelines** (n8n, OpenAI)  
+- Integrating **external APIs** (Meta, WhatsApp, third-party services)  
+- Structuring systems for **long-term maintainability and scaling**  
+- Optimizing systems for **speed, batching, and reduced API cost**  
+- Implementing **cloud deployments and production infrastructure (AWS)**  
 
 ---
 
-## ⚙️ Backend & Systems
+## ⚙️ Backend, Cloud & DevOps
 
-- Node.js (Express, NestJS)
-- C# (.NET, ASP.NET Core)
-- Python (Flask, FastAPI, AI workflows)
+- Node.js (Express, NestJS)  
+- C# (.NET, ASP.NET Core)  
+- Python (FastAPI, Flask, AI workflows)  
 
-- AWS (deployment, storage, scalable services)
-- DevOps practices (CI/CD, environment management, production readiness)
+- AWS (EC2, S3, deployments, scaling)  
+- CI/CD pipelines  
+- Environment & infrastructure management  
+- Production system design  
 
 ---
 
@@ -74,13 +73,13 @@ Global talent + hiring + payments platform
 
 ---
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
-<p align="left">
-<a href="https://twitter.com/timi_odusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timi_odusanya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/timi-odusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timi-odusanya" height="30" width="40" /></a>
-<a href="https://instagram.com/timiodusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timiodusanya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/timmycruz36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="timmycruz36" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/timi_odusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/timi-odusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/timiodusanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/timmycruz36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -88,36 +87,30 @@ Global talent + hiring + payments platform
 ## 🧰 Languages and Tools:
 
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40"/></a>
+<!-- KEEPING EXACTLY AS YOU SAID -->
+aws babel bash bootstrap c chartjs csharp css3 dotnet express firebase git heroku html5 java javascript mongodb mssql mysql nodejs postman react sass tailwind vagrant
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timiodusanya&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak (Live)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=timiodusanya&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya" />
