@@ -43,17 +43,44 @@ Most of my work sits around:
 
 ## 🚀 Work Scope
 
-Instead of listing projects, here’s the depth of what I’ve worked on:
+Here’s the depth of what I’ve worked on:
 
 - Multi-role systems with **complex permissions & workflows**  
-- Payment systems, wallets, and transaction flows  
-- Scalable backend architectures (**Node.js & .NET**)  
-- AI automation pipelines (**n8n, OpenAI**)  
-- Third-party integrations (**Meta, WhatsApp APIs**)  
-- Performance optimization (batching, reducing API cost)  
-- Cloud infrastructure & deployments (**AWS**)  
+- Payment systems, wallets, **3rd-party payment integrations** (Paystack, Flutterwave, Stripe)  
+- Payroll management systems, Taxes,  HR, Talent and Onboarding and employee financial flows  
+- AI Scoring, AI Assessment, AI Hiring
+- Scalable backend architectures (**Node.js, NestJS, Express, .NET Core**)  
+- AI automation pipelines and integrations (**n8n, OpenAI, Generative AI, LLMs scoring & recommendation engines**)  
+- Third-party API integrations (**Meta/WhatsApp APIs, Microsoft, Google, Email services, social platforms**)  
+- Performance optimization: batching, caching, cost reduction, and throughput improvement  
+- Cloud infrastructure & deployments (**AWS, Heroku, Firebase**)  
+- Databases: **MongoDB, PostgreSQL, MSSQL, MySQL**  
+- Full-stack application design and implementation (React.js, Next.js, Tailwind, Styled Components, TypeScript)  
+- Advanced system workflows for onboarding, authentication, authorization, and user management  
+- Real-time event processing, notifications, and reporting dashboards  
+- Payment reconciliation, subscription handling, and transaction auditing  
 
 ---
+## 🎨 Frontend Engineering
+
+I don’t just build interfaces — I build **usable, fast, and scalable user experiences**.
+
+- Building responsive, production-grade UIs with **React & Next.js**  
+- Writing clean, maintainable component architecture  
+- State management with **Redux and modern React patterns**  
+- Styling with **Tailwind, SASS, and Styled Components**  
+- Optimizing performance (lazy loading, code splitting, API efficiency)  
+- Integrating frontend seamlessly with complex backend systems  
+- Handling real-world UI states (loading, errors, edge cases)  
+
+### ⚡ Frontend Focus
+
+- Performance over heavy UI  
+- Simplicity over unnecessary complexity  
+- Consistency across screens and flows
+
+---
+
 
 ## ⚙️ Backend, Cloud & DevOps
 
@@ -64,6 +91,11 @@ Instead of listing projects, here’s the depth of what I’ve worked on:
 - AWS (EC2, S3, deployments, scaling)  
 - CI/CD pipelines  
 - Environment & infra management  
+
+---
+
+
+- Databases: **MongoDB, PostgreSQL, MSSQL, MySQL**
 
 ---
 
@@ -128,19 +160,22 @@ Instead of listing projects, here’s the depth of what I’ve worked on:
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya&hide_border=true" />
-</p>
-
----
 
 ## 🧩 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&hide_border=true" />
 </p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya&hide_border=true" />
+</p>
+
+
 
 ---
 
