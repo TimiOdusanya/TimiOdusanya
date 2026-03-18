@@ -10,6 +10,10 @@
   I design and build systems that actually work in production.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timiodusanya&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧠 Who I Am
@@ -18,12 +22,12 @@ I’m not just writing code — I’m building systems.
 
 - I think in **flows, architecture, and failure cases**
 - I care about **how things scale**, not just how they run locally
-- I build with **intent**, not just tools
+- I build with **intent**, not just tools**
 
 Most of my work sits around:
 
 - Backend systems that don’t break under pressure  
-- API design that other engineers can actually use  
+- API design that engineers actually enjoy using  
 - AI + automation pipelines that reduce manual work  
 - Cloud + DevOps systems that are production-ready  
 
@@ -31,24 +35,23 @@ Most of my work sits around:
 
 ## ⚡ What Makes Me Different
 
-- I don’t over-engineer — I **simplify aggressively**
-- I don’t guess — I **trace problems to the root**
-- I don’t just ship — I **structure for long-term growth**
+- I **simplify aggressively**
+- I **trace problems to the root**
+- I **build for long-term scale**, not short-term hacks  
 
 ---
 
-## 🚀 Selected Work (Scope)
+## 🚀 Work Scope
 
-Instead of listing projects, here’s what my work has covered:
+Instead of listing projects, here’s the depth of what I’ve worked on:
 
-- Designing **multi-role systems** with complex permissions and workflows  
-- Building **payment, wallet, and transaction systems**  
-- Engineering **scalable backend architectures** (Node.js + .NET)  
-- Developing **AI-powered automation pipelines** (n8n, OpenAI)  
-- Integrating **external APIs** (Meta, WhatsApp, third-party services)  
-- Structuring systems for **long-term maintainability and scaling**  
-- Optimizing systems for **speed, batching, and reduced API cost**  
-- Implementing **cloud deployments and production infrastructure (AWS)**  
+- Multi-role systems with **complex permissions & workflows**  
+- Payment systems, wallets, and transaction flows  
+- Scalable backend architectures (**Node.js & .NET**)  
+- AI automation pipelines (**n8n, OpenAI**)  
+- Third-party integrations (**Meta, WhatsApp APIs**)  
+- Performance optimization (batching, reducing API cost)  
+- Cloud infrastructure & deployments (**AWS**)  
 
 ---
 
@@ -56,20 +59,11 @@ Instead of listing projects, here’s what my work has covered:
 
 - Node.js (Express, NestJS)  
 - C# (.NET, ASP.NET Core)  
-- Python (FastAPI, Flask, AI workflows)  
+- Python (FastAPI, Flask)  
 
 - AWS (EC2, S3, deployments, scaling)  
 - CI/CD pipelines  
-- Environment & infrastructure management  
-- Production system design  
-
----
-
-## 🎯 Engineering Focus
-
-- System design over shortcuts  
-- Maintainability over cleverness  
-- Real-world performance over benchmarks  
+- Environment & infra management  
 
 ---
 
@@ -84,25 +78,49 @@ Instead of listing projects, here’s what my work has covered:
 
 ---
 
-## 🧰 Languages and Tools:
-
-<p align="left"> 
-<!-- KEEPING EXACTLY AS YOU SAID -->
-aws babel bash bootstrap c chartjs csharp css3 dotnet express firebase git heroku html5 java javascript mongodb mssql mysql nodejs postman react sass tailwind vagrant
-</p>
-
----
-
-## 📊 GitHub Stats (Live)
+## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timiodusanya&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&hide_border=true" />
+
+<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40"/></a>
+<a href="https://babeljs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=babel" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40"/></a>
+<a href="https://www.chartjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=chartjs" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+<a href="https://heroku.com" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></a>
+<a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
+<a href="https://www.vagrantup.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vagrant" height="40"/></a>
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak (Live)
+## 📊 GitHub Stats (Real-Time)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timiodusanya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+---
+
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=timiodusanya&hide_border=true" />
@@ -113,11 +131,19 @@ aws babel bash bootstrap c chartjs csharp css3 dotnet express firebase git herok
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <b>timiodusanya • timiodusanya • timiodusanya</b>
+  <b>Built with intent. Designed for scale.</b>
 </p>
