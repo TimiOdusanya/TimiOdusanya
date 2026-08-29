@@ -9,14 +9,18 @@
 - 💬 Ask me about **Node.js**, **NestJS**, **.NET**, and **AI integrations**
 - 📫 How to reach me **[timiodusanya.vercel.app](https://timiodusanya.vercel.app/)**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timiodusanya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/timiodusanya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timiodusanya&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=timiodusanya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Timi's GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=timiodusanya&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Timi's top languages" />
 </a>
 </p>
 
@@ -149,13 +153,13 @@ I don’t just build interfaces — I build **usable, fast, and scalable user ex
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=timiodusanya&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=timiodusanya&theme=react&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timiodusanya&theme=react&hide_border=true" />
+  <img src="https://activity-graph.vercel.app/graph?username=timiodusanya&theme=react&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
