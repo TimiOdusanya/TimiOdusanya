@@ -1,4 +1,4 @@
-[![MasterHead](https://m.media-amazon.com/images/I/71cMSqXtHyL.jpg)](https://timiodusanya.vercel.app/)
+[![MasterHead](https://timiodusanya.vercel.app/)
 
 <h1 align="center">timiodusanya</h1>
 
