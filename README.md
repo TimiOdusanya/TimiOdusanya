@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/timiodusanya?tab=repositories)
-- 💬 Ask me about **Node.js**, **NestJS**, **.NET**, and **AI integrations**
+- 💬 Ask me about **TypeScript**, **React**, **Node.js**, **NestJS**, **.NET**, and **AI integrations**
 - 📫 How to reach me **[timiodusanya.vercel.app](https://timiodusanya.vercel.app/)**
 
 <p align="center">
